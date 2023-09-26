@@ -1,1 +1,2 @@
 print("CEU")
+print("Home assignment")
